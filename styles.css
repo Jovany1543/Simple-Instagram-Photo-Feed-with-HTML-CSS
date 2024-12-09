@@ -1,0 +1,26 @@
+.navbar{
+    text-align: center;
+    background-color: white;
+    margin: 0px;
+    padding:10px
+
+}
+.navbar h1{
+    margin:0px
+}
+body{
+    background-color: lightgray;
+    padding:0px;
+    margin:0px
+}
+
+.container{
+
+}
+.post{
+    width: 500px;
+    height: 400px;
+    background-color: white ;
+    margin-left: auto;
+    margin-right: auto;
+}
